@@ -1,2 +1,3 @@
 # hello-world
-My first repository. It is essentially for practice.
+**My first repository. It is essentially for practice.**
+I am taking a couple of data analyst courses on *Coursera*, which has led me here, to *GitHub*, where I am trying to learn all I will need to know in order to transition into a career in data. I'm also working on my **bachelor's degree** in **economics** at *CSU Chico*. I should be finished with that and graduating in about a year. I've looked into the possible careers out there for an economics major, and they aren't exactly great for recent BA grads with little to no experience. But, if one were to gather some data analysis experience and certification, the prospects are much better. So, here I am at **3:17am**, working on getting through the *GitHub* module of my data analysis course. I've already said too much.
